@@ -6,14 +6,23 @@ Esse Repositório contem materiais de diversos cursos de estudo para Python, con
 ## 01 - Python para Zumbis (PPZ):
 ![](https://github.com/GabrielTrentino/Python_Basico/blob/main/00%20-%20Imagens/01%20-%20Python%20Zumbis.png)
 
-A primeira pasta de Python Básico é a Python para Zumbis do professor Fernando Masanori disponibilizado no [link](https://www.pycursos.com/python-para-zumbis/). O que foi realizado em cada lista de exercício está no [README.md](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/README.md). Os links para os Notebooks:
+A primeira pasta de Python Básico é a Python para Zumbis do professor Fernando Masanori disponibilizado no [link](https://www.pycursos.com/python-para-zumbis/). Os links para os Notebooks e PDF's estão logo à baixo juntamente com os tópicos vistos:
 
-* [Lista 01](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_01.ipynb) 
-* [Lista 02](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_02.ipynb) 
-* [Lista 03](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_03.ipynb)
-* [Lista 03.b](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_03_Lista_b.ipynb)
-* [Lista 04](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_04.ipynb)
-* [Lista 05](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_05.ipynb)
+* [Lista 01](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_01.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2001.pdf)]
+    * Inputs e Outputs;
+    * Formulas e Prints.
+* [Lista 02](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_02.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2002.pdf)]
+    * If, Else, Elifs (Condicionais).
+* [Lista 03](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_03.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2003.pdf)]
+    * Laços de Repetição.
+* [Lista 03.b](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_03_Lista_b.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2003-b.pdf)]
+    * Laços de Repetição com Condicionais.
+* [Lista 04](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_04.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2004.pdf)]
+    * Laços de Repetição;
+    * Listas;
+    * Condicionais;
+* [Lista 05](https://github.com/GabrielTrentino/Python_Basico/blob/main/PythonZumbis/PPZ_05.ipynb) [[PDF](https://github.com/GabrielTrentino/Python_Basico/blob/main/01%20-%20Python%20para%20Zumbis/Lista%2005.pdf)]
+    * Interpretação de Códigos;
 
 ## 02 - Curso em Vídeo - Gustavo Guanabara:
 
